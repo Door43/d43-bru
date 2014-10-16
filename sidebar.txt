@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bru:home|Door43 (bru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bru|d43-bru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bru/archive/master.zip|d43-bru.zip]]
+
+**Recent Changes**
+{{changes>ns = bru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bru|Ethnologue data]]
+
